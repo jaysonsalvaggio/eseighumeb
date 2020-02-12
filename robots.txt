@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://poozaizae.iftrue.top/sitemap.xml
